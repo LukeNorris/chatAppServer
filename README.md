@@ -1,7 +1,7 @@
 
 <h1>Realtime Chat Application</h1>
 
-<img src="" alt="screenshot of the live chatapp" width="600px" />
+<img src="https://github.com/LukeNorris/chatAppClient/blob/master/public/chatapp_screenshot.png" alt="screenshot of chat application" width="600px"/>
 
 [Live Site on hosted Netlify](https://amazing-yonath-882eb2.netlify.app/)
 
